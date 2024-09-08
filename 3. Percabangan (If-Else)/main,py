@@ -1,3 +1,7 @@
+# Struktur percabangan memungkinkan program untuk mengambil keputusan berdasarkan kondisi tertentu.
+
+# Contoh:
+
 umur = 16
 
 if umur >= 17:

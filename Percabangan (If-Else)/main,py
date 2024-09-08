@@ -1,0 +1,6 @@
+umur = 16
+
+if umur >= 17:
+    print("Kamu boleh membuat SIM.")
+else:
+    print("Kamu belum boleh membuat SIM.")
